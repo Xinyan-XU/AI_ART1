@@ -1,9 +1,0 @@
-body{
-    margin: 0;
-    padding: 0;
-    overflow: hidden; /* Prevents scrolling */
-  }
-  canvas {
-    display: block; /* Removes extra space below the canvas */
-    border: none;   /* Removes border from the canvas */
-  }
